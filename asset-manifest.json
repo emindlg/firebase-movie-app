@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firebase-movie-app/static/css/main.d6e05075.css",
+    "main.js": "/firebase-movie-app/static/js/main.4bdf77c3.js",
+    "static/js/787.a010e42e.chunk.js": "/firebase-movie-app/static/js/787.a010e42e.chunk.js",
+    "index.html": "/firebase-movie-app/index.html",
+    "main.d6e05075.css.map": "/firebase-movie-app/static/css/main.d6e05075.css.map",
+    "main.4bdf77c3.js.map": "/firebase-movie-app/static/js/main.4bdf77c3.js.map",
+    "787.a010e42e.chunk.js.map": "/firebase-movie-app/static/js/787.a010e42e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6e05075.css",
+    "static/js/main.4bdf77c3.js"
+  ]
+}
