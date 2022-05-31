@@ -51,6 +51,7 @@ const Main = () => {
         {movies.map((movie) => (
           <MovieCard key={movie.id} {...movie} />
         ))}
+        
       </div>
     </>
   );
